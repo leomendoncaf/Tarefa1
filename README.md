@@ -4,7 +4,7 @@ Este projeto é uma implementação da tarefa 3 da disciplina C214-L1. A tarefa 
 ## Começando
 Para instalar o projeto em sua máquina local, siga os passos abaixo:
 
-## Clone o repositório para sua máquina local:
+Clone o repositório para sua máquina local:
 git clone https://github.com/leomendoncaf/Tarefa1
 
 Instale as dependências do projeto:
