@@ -15,6 +15,6 @@ npm install
 [java] - Tarefa 1 e 2
 
 ## Autor
-[Leonardo Mendonça Franco] - Estudante de Engenharia de softwarepelo Inatel
+[Leonardo Mendonça Franco] - Estudante de Engenharia de software pelo Inatel
 
 
